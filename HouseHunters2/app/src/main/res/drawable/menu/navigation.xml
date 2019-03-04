@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_proyectores"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Proyectos" />
+
+    <item
+        android:id="@+id/navigation_perfil"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Perfil" />
+
+    <item
+        android:id="@+id/navigation_encuesta"
+        android:icon="@drawable/ic_event_note_black_24dp"
+        android:title="Encuesta" />
+
+</menu>
